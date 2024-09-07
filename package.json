@@ -1,0 +1,14 @@
+{
+  "name": "tp2_primerservidornode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "node --watch index.js",
+    "type": "module",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Gelvan",
+  "license": "ISC"
+}
